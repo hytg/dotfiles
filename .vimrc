@@ -10,7 +10,7 @@ set ruler
 set number
 
 "色
-set background=dark
+"set background=dark
 "カラーテーマは入れたら有効にしてください
 "let g:hybrid_use_iTerm_colors = 1
 "colorscheme hybrid
