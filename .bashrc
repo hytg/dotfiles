@@ -130,7 +130,7 @@ if ! shopt -oq posix; then
 fi
 
 alias vi=vim
-alias aptup="sudo apt update; sudo apt upgrade; sudo apt autoremove"
+alias aptup="sudo apt update; sudo apt upgrade; sudo apt remove"
 
 source ~/.enhancd/init.sh
 alias serial='screen /dev/ttyUSB0 9600'
